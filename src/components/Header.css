@@ -1,0 +1,16 @@
+.header {
+    background-color: #20232a;
+    color: #ffffff;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 50px;
+}
+
+.navDiv {
+    display: flex;
+    height: 100%;
+    width: 60%;
+}

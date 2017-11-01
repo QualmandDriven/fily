@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Document 1",
+        "description": "This is a assurance document.",
+        "added": "2016-03-17",
+        "from": "Alexander",
+        "tags": [
+            "assurance",
+            "alexander",
+            "running",
+        ]
+    },
+    {
+        "name": "Document 2",
+        "description": "This is a bank document.",
+        "added": "2016-03-17",
+        "from": "Alexander",
+        "tags": [
+            "alexander",
+            "bank",
+        ]
+    },
+    {
+        "name": "Document 3",
+        "description": "This is a car assurance document.",
+        "added": "2016-03-17",
+        "from": "Alexander",
+        "tags": [
+            "assurance",
+            "alexander",
+            "car",
+        ]
+    }
+]

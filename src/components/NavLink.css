@@ -1,0 +1,31 @@
+.navlink-active-span {
+    position: absolute;
+    bottom: 0px;
+    height: 4px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    background: rgb(97,218,251);
+}
+
+.navlink {
+    display: flex;
+    color: rgb(255,255,255);
+    padding: 15px 15px 15px 15px;
+    font-weight: 300;
+    flex-direction: row;
+    align-items: center;
+    transition: color 0.2s ease-out;
+    position: relative;
+    text-decoration: none;
+}
+
+.active {
+    background-color: rgba(245, 245, 245, 0.1);
+    color: rgb(97,218,251);
+}
+
+.navlink-image {
+    height: 20px;
+    width: 30px;
+}
